@@ -1,2 +1,3 @@
 # School
-Just school work
+
+Basic school programming
