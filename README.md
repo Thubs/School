@@ -1,3 +1,3 @@
 # School
 
-Basic school programming
+School programming
