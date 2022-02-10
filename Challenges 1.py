@@ -24,7 +24,7 @@ print("greetings, " + local_people + "!")
 
 end_station = input("End station: ")
 
-print("This is the " + end_station + " train survice")
+print("This is the " + end_station + " train service")
 print("This train will terminate at " + end_station)
 
 # Challenge 5
