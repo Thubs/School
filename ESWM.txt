@@ -1,0 +1,5 @@
+1. It doesn't work because you can only put not blocks in the play music in background block
+
+2. You can fix it by it by taking out the wait block or putting in two "play music in background" and placing a wait block in the middle of them
+
+3. The wait won't be programmed in
