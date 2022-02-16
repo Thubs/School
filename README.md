@@ -2,4 +2,4 @@
 
 School programming
 
-.ees areeduscratch
+.ees are eduscratch
