@@ -42,3 +42,8 @@ numberino = int(input("Input a number to be doubled: "))
 doubled = numberino * 2
 
 print(doubled)
+
+# Boob generator
+
+while  1>0:
+  print("Hehe boobs")
