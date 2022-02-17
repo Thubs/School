@@ -17,3 +17,20 @@ A set of rules and instructions used to write a computer program.
 IDE
 
 Integrated developmental Environment
+
+Decompose
+
+Break a problem down into smaller pieces
+
+ 
+Pattern Matching
+
+Finding similarities between things
+
+ Abstraction
+ 
+ Pulling out specific differences to make one solution work for multiple problems
+
+ Algorithm
+ 
+ A list of steps that you can follow to finish a task
