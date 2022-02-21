@@ -1,7 +1,7 @@
 # School
 
-_School programming_
+School programming
 
-.ees is eduscratch
+_.ees is eduscratch_
 
 Feel free to use this whenever
