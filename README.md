@@ -12,11 +12,11 @@ Feel free to use this whenever
 
 A collection of instructions that tell a computer to perform a specifi task.
 
-### Hardware
+### Hardware:
 
 The physical parts of the computer (or robot).
 
-### Software
+### **Software**
 
 The set of programs and applications that make hardware like a computer or robot run
 
@@ -24,7 +24,7 @@ The set of programs and applications that make hardware like a computer or robot
 
 A set of rules and instructions used to write a computer program. 
 
-### IDE
+### I_DE_
 
 Integrated developmental Environment
 
