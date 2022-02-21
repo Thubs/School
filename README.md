@@ -2,6 +2,6 @@
 
 School programming
 
-_.ees is eduscratch_
+_.ees_ is eduscratch
 
 Feel free to use this whenever
