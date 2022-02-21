@@ -10,7 +10,7 @@ Feel free to use this whenever
 
 ### Computer Program
 
-A collection of instructions that tell a computer to perform a specifi task.
+A collection of instructions that tell a computer to perform a specific task.
 
 ### Hardware
 
