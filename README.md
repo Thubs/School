@@ -1,6 +1,6 @@
 # School
 
-~School programming~
+_School programming_
 
 .ees is eduscratch
 
