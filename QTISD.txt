@@ -1,0 +1,26 @@
+1. 
+	a. LEDS
+	
+	b. Sound
+
+	c. Drive
+
+2. It worked as expected
+
+3.
+start
+while loop
+beep turn left LED on 
+turn left LED off
+beep
+
+4. 6.5
+
+5. 7
+
+6. to go at 7 speed for 6.5 seconds backwards
+
+7. 4
+
+8. What direction to go in
+
