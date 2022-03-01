@@ -43,3 +43,15 @@ Pulling out specific differences to make one solution work for multiple problems
 ### Algorithm
  
 A list of steps that you can follow to finish a task
+
+### Loops
+
+iteration = gneneric loop name 
+
+#### 5 types:
+
+*For loop
+*While loop
+*Do-while loop
+*For-each loop
+*Repeat loop
