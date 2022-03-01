@@ -50,8 +50,8 @@ iteration = gneneric loop name
 
 #### 5 types:
 
-*For loop
-*While loop
-*Do-while loop
-*For-each loop
-*Repeat loop
+-For loop
+-While loop
+-Do-while loop
+-For-each loop
+-Repeat loop
