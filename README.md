@@ -46,7 +46,7 @@ A list of steps that you can follow to finish a task
 
 ### Loops
 
-iteration = gneneric loop name 
+iteration = generic loop name 
 
 #### 5 types:
 
