@@ -12,6 +12,10 @@ obstacle = 0
 obstacle = Ed.ReadObstacleDetection()
 Ed.Drive(Ed.FORWARD, Ed.SPEED_10, 25)
 
+while yes == no():
+    Ed.Drive(Ed.FORWARD, Ed.SPEED_10, 25)
+    yes = yes + 1
+
 while True:
 	Ed.Drive(Ed.FORWARD, Ed.SPEED_10, Ed.DISTANCE_UNLIMITED)
 	if obstacle>Ed.OBSTACLE_NONE:
