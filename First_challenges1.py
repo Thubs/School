@@ -43,7 +43,7 @@ doubled = numberino * 2
 
 print(doubled)
 
-# Boob generator
+# infinite boob generator
 
-while  1>0:
+while 1>0:
   print("Hehe boobs")
