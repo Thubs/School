@@ -112,3 +112,19 @@ for i in range(3):
     penup()
     forward(100)
     pendown()
+
+# Circle ring
+
+penup()
+setposition(0,-100)
+pendown()
+
+def circle_ring():
+    for i in range(36):
+        circle(10)
+        penup()
+        left(10)
+        forward(20)
+        pendown()
+
+circle_ring()
