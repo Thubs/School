@@ -1,5 +1,7 @@
 from turtle import *
 
+# Circles
+
 circle(20)
 penup()
 forward(40)
@@ -17,3 +19,42 @@ penup()
 forward(40)
 pendown()
 circle(20)
+
+# Square
+
+forward(50)
+left(90)
+forward(50)
+left(90)
+forward(50)
+left(90)
+forward(50)
+
+# X and Y axis
+
+penup()
+left(90)
+forward(200)
+right(90)
+right(90)
+pendown()
+forward(400)
+penup()
+right(90)
+forward(200)
+right(90)
+forward(200)
+right(90)
+pendown()
+forward(400)
+
+# loops
+
+penup()
+backward(200)
+
+for i in range (40):
+    pendown()
+    forward(5)
+    penup()
+    forward(5)
