@@ -128,3 +128,29 @@ def circle_ring():
         pendown()
 
 circle_ring()
+
+# Shape stack
+
+penup()
+setposition(0,-200)
+pendown()
+
+def square():
+    for i in range(4):
+        forward(50)
+        left(90)
+
+for i in range(4):
+    square()
+    penup()
+    forward(50)
+    left(90)
+    forward(75)
+    pendown()
+    circle(25)
+    penup()
+    forward(25)
+    left(90)
+    forward(50)
+    left(180)
+    pendown()
