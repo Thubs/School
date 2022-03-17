@@ -3,6 +3,8 @@
 School programming
 
 _.ees_ is eduscratch
+_.py_  is  python
+_.md_ is markdown
 
 Feel free to use this whenever
 
