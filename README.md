@@ -54,12 +54,12 @@ iteration = generic loop name
 
 #### 5 types:
 
--For loop
+>For loop
 
--While loop
+>While loop
 
--Do-while loop
+>Do-while loop
 
--For-each loop
+>For-each loop
 
--Repeat loop
+>Repeat loop
